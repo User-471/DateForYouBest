@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DateForYouBest</string>
+    <string name="storage_permission_rationale_title">title</string>
+    <string name="storage_permission_rationale_message">message</string>
+    <string name="error_message">Error occurred. Please, try again later.</string>
+
+    <string name="dating">Dating</string>
+    <string name="registration_email_hint_text">Your Email</string>
+    <string name="name_hint_text">Your name</string>
+    <string name="password_hint">Password</string>
+    <string name="error_email_is_not_valid">Email is not valid</string>
+    <string name="error_password_empty">Password can\'t be empty</string>
+    <string name="error_name_empty">Name can\'t be empty</string>
+    <string name="error_avatar_empty">Please, pick photo</string>
+    <string name="upload_photo_title">Upload your best photo</string>
+    <string name="gender_title">You are…</string>
+    <string name="title_activity_choose">ChooseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

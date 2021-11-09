@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="prime">#DF762515</color>
+    <color name="prime_dark">#DF770505</color>
+    <color name="prime_dark_2">#DF770505</color>
+    <color name="other">#DF762505</color>
+    <color name="other_dark">#CF762505</color>
+    <color name="main">#770505</color>
+    <color name="black_40">#66000000</color>
+    <color name="red">#FF6D6D</color>
+    <color name="green">#34C759</color>
+    <color name="name_color">#FE846B</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

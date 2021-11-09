@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_accept.xml" value="0.2490740740740741" />
+        <entry key="app/src/main/res/drawable/ic_right_card.xml" value="0.32314814814814813" />
+        <entry key="app/src/main/res/drawable/ic_wrong_card.xml" value="0.32314814814814813" />
+        <entry key="app/src/main/res/drawable/rounded_6_white.xml" value="0.2712962962962963" />
+        <entry key="app/src/main/res/layout/activity_check.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/activity_choose.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_gender.xml" value="0.2875905797101449" />
+        <entry key="app/src/main/res/layout/activity_init.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.21979166666666666" />
+        <entry key="app/src/main/res/layout/activity_user_data.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/item_card.xml" value="0.375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2490740740740741" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2490740740740741" />
+        <entry key="app/src/main/res/xml/files_paths.xml" value="0.22327898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="azul-16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
